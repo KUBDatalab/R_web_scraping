@@ -17,7 +17,7 @@ These packages will be installed into "~/work/R_web_scraping/R_web_scraping/renv
 
 # Installing packages --------------------------------------------------------
 - Installing polite ...                         OK [linked from cache]
-Successfully installed 1 package in 6.3 milliseconds.
+Successfully installed 1 package in 6.4 milliseconds.
 ```
 
 ``` r
@@ -45,7 +45,7 @@ These packages will be installed into "~/work/R_web_scraping/R_web_scraping/renv
 
 # Installing packages --------------------------------------------------------
 - Installing tidyverse ...                      OK [linked from cache]
-Successfully installed 1 package in 5.8 milliseconds.
+Successfully installed 1 package in 5.7 milliseconds.
 ```
 
 ``` r
@@ -73,7 +73,7 @@ These packages will be installed into "~/work/R_web_scraping/R_web_scraping/renv
 
 # Installing packages --------------------------------------------------------
 - Installing htmlTable ...                      OK [linked from cache]
-Successfully installed 1 package in 5.8 milliseconds.
+Successfully installed 1 package in 6 milliseconds.
 ```
 
 ``` r
@@ -87,7 +87,7 @@ These packages will be installed into "~/work/R_web_scraping/R_web_scraping/renv
 
 # Installing packages --------------------------------------------------------
 - Installing htmltools ...                      OK [linked from cache]
-Successfully installed 1 package in 5.4 milliseconds.
+Successfully installed 1 package in 5.3 milliseconds.
 ```
 
 ``` r
